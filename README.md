@@ -57,8 +57,8 @@ http://127.0.0.1:8000/record
         "datetime": "2021-11-15T17:48:43+03:00"
     },
     {
-        "latitude": "1.100",
-        "longitude": "1111111.100",
+        "latitude": "45.100",
+        "longitude": "22.100",
         "vehicle": 2,
         "datetime": "2021-11-15T14:42:38+03:00"
     },
