@@ -27,7 +27,7 @@ id  | Primary Key
 plate | Charfield
 
 ----
-To run the application, PostgreSQL database name and password must be entered in settings.py.
+To run the application, PostgreSQL database name and password must be entered in `settings.py`.
 
 Because there are many queries, each query is costly in terms of performance. Therefore, the query should be completed as soon as possible. 
 
